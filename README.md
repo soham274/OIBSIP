@@ -1,5 +1,4 @@
 # OIBSIP
-# OIBSIP Data Science Projects
 
 ## Overview
 
